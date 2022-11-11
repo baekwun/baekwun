@@ -4,9 +4,9 @@
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 <br>
 <p>🏫 A fourth-year student at PHINMA-University of Pangasinan, pursuing a Bachelor of Science degree majoring in Information Technology.</p>
-<p>🌱 Learning **UX/UI Design**</p>
+<p>🌱 Learning UX/UI Design</p>
 <p>📌 Mainly uses HTML, CSS, and JavaScript</p>
-<p>📫 How to reach me **Kyme.business@gmail.com**</p>
+<p>📫 How to reach me Kyme.business@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
