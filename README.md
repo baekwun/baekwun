@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kyn Menoza</h1>
 <img src="https://media-exp1.licdn.com/dms/image/D5616AQHhYzOsX8DCEg/profile-displaybackgroundimage-shrink_350_1400/0/1667651347915?e=1673481600&v=beta&t=xwpbPPU70KonUCepz0BoVwhmR5hz0yaCcIcJXB3wl98" alt="Italian Trulli">
+
+<h1 align="center">Hi 👋, I'm Kyn Menoza</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **UX/UI Design**
@@ -40,3 +41,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekwun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
