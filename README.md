@@ -48,4 +48,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekwun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![alt text](https://img.shields.io/badge/HTML-text-#E34F26?style=for-the-badge&logo=HTML)
+<h3 align="left">Languages</h3>
+
+![HTML](icons/html5.svg) ![CSS](icons/css3.svg) ![JavaScript](icons/javascript.svg) ![Laravel](icons/laravel.svg) ![Vue](icons/vuedotjs.svg) ![Tailwind](icons/tailwindcss.svg)
+
+<h3 align="left">Tools</h3>
+
+![Alt text](icons/adobexd.svg) ![Alt text](icons/adobeillustrator.svg) ![Alt text](icons/adobephotoshop.svg)
