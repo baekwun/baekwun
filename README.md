@@ -48,4 +48,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekwun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![alt text](https://img.shields.io/badge/HTML-text-#E34F26?style=for-the-badge&logo=HTML)
+[![alt text](https://img.shields.io/badge/HTML-text-#E34F26?style=for-the-badge&logo=HTML)
