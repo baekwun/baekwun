@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyn Menoza</h1>
-<h3 align="center">A passionate frontend developer from the philippines</h3>
+<h3 align="center">A passionate frontend developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **UX/UI Design**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/baekwun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baekwun" height="30" width="40" /></a>
+<a href="https://twitter.com/baekwun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baekwun_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kyn mendoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyn mendoza" height="30" width="40" /></a>
 <a href="https://instagram.com/baekwun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baekwun" height="30" width="40" /></a>
 <a href="https://dribbble.com/baekwun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="baekwun" height="30" width="40" /></a>
