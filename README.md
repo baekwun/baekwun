@@ -3,9 +3,12 @@
 <h1 align="center">Hi 👋, I'm Kyn Menoza</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-- 🏫 I’m a fourth-year student at PHINMA-University of Pangasinan, pursuing a Bachelor of Science degree majoring in Information Technology.
-- 🌱 I’m currently learning **UX/UI Design**
-- 📫 How to reach me **Kyme.business@gmail.com**
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="
+🏫 A fourth-year student at PHINMA-University of Pangasinan, pursuing a Bachelor of Science degree majoring in Information Technology.
+🌱 Learning **UX/UI Design**
+📌 Mainly uses HTML, CSS, and JavaScript
+📫 How to reach me **Kyme.business@gmail.com**
+</code></pre></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
