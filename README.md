@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Kyn Menoza</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
+- 🏫 I’m a fourth-year student at PHINMA-University of Pangasinan, pursuing a Bachelor of Science degree majoring in Information Technology.
 - 🌱 I’m currently learning **UX/UI Design**
-
 - 📫 How to reach me **Kyme.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -44,7 +44,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
-<br>
 <h3 align="left">Most used Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekwun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
