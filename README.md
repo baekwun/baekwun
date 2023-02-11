@@ -1,4 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/D5616AQHhYzOsX8DCEg/profile-displaybackgroundimage-shrink_350_1400/0/1667651347915?e=1673481600&v=beta&t=xwpbPPU70KonUCepz0BoVwhmR5hz0yaCcIcJXB3wl98" alt="Italian Trulli">
 
 <h1 align="center">Hi 👋, I'm Kyn Menoza</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
