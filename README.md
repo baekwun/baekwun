@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kyn Menoza</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 <br>
-<p>🏫 A fourth-year student at PHINMA-University of Pangasinan, pursuing a Bachelor of Science degree majoring in Information Technology.</p>
+<p>🏫 A graduate of Bachelor of Science in Information Technology from PHINMA-University of Pangasinan, currently working as a System Administrator.</p>
 <p>🌱 Learning UX/UI Design</p>
 <p>📌 Mainly uses HTML, CSS, and JavaScript</p>
 <p>📫 How to reach me Kyme.business@gmail.com</p>
