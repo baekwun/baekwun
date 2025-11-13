@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHhYzOsX8DCEg/profile-displaybackgroundimage-shrink_350_1400/0/1667651347915?e=1698278400&v=beta&t=6JTAGrWQJ8xKfzwkLSuGWzKmOeF07QE8xCcX28tgjEA" alt="Banner" width="100%">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFiC47LuDthvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728823962797?e=1764806400&v=beta&t=LyCffwboETrcKnyxYhIfnlXBEA8hb4EB672zvQRyOg4" alt="Banner" width="100%">
 
 <h1 align="center">👋 Hi, I'm Kyn Mendoza</h1>
 <h3 align="center">Frontend Developer • System Administrator • IT Enthusiast</h3>
