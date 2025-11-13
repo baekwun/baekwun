@@ -9,45 +9,40 @@
 - 🎓 **BS in Information Technology**, *PHINMA University of Pangasinan*  
 - 💼 Currently working as a **System Administrator**  
 - 🌱 Learning **UX/UI Design**  
-- 🧰 Mainly using **HTML**, **CSS**, and **JavaScript**  
+- 🧰 Mainly using **HTML**, **CSS**, **JavaScript**, and **SQL**  
 - 📫 Reach me at: [Kyme.business@gmail.com](mailto:Kyme.business@gmail.com)
 
 ---
 
 ### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"/>
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 🧰 Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=#FF61F6" height="30"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="30"/>
-</p>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=#FF61F6)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/baekwun_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/kyn-mendoza-a54922246/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="https://instagram.com/baekwun" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
-  </a>
-  <a href="https://dribbble.com/baekwun" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="30" />
-  </a>
-</p>
+<a href="https://twitter.com/baekwun_" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" />
+</a>
+<a href="https://www.linkedin.com/in/kyn-mendoza-a54922246/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+</a>
+<a href="https://instagram.com/baekwun" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+</a>
+<a href="https://dribbble.com/baekwun" target="_blank">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="30" />
+</a>
 
 ---
 
