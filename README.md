@@ -1,44 +1,57 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFiC47LuDthvA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728823962797?e=1764806400&v=beta&t=LyCffwboETrcKnyxYhIfnlXBEA8hb4EB672zvQRyOg4" alt="Banner" width="100%">
 
-<h1 align="center">👋 Hi, I'm Kyn Mendoza</h1>
-<h3 align="center">Frontend Developer • System Administrator • IT Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#4F8CC9;">Kyn Mendoza</span></h1>
+<h3 align="center">Frontend Developer • System Administrator</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 BS in Information Technology — *PHINMA University of Pangasinan*  
+### 🧾 About Me
+- 🎓 **BS in Information Technology**, *PHINMA University of Pangasinan*  
 - 💼 Currently working as a **System Administrator**  
-- 🌱 Learning **UX/UI Design** and **Modern Frontend Development**  
-- 🧰 Tech Stack: **HTML, CSS, JavaScript**  
-- 📫 Reach me at: **Kyme.business@gmail.com**
+- 🌱 Learning **UX/UI Design**  
+- 🧰 Mainly using **HTML**, **CSS**, and **JavaScript**  
+- 📫 Reach me at: [Kyme.business@gmail.com](mailto:Kyme.business@gmail.com)
 
 ---
 
-### 🛠️ Tech & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="28"/>
+</p>
+
+---
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=#FF61F6" height="28"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="28"/>
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/baekwun_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="22" width="22" alt="Twitter" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/kyn-mendoza-a54922246/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="22" width="22" alt="LinkedIn" style="margin: 0 10px;"/>
   </a>
   <a href="https://instagram.com/baekwun" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="22" width="22" alt="Instagram" style="margin: 0 10px;"/>
   </a>
   <a href="https://dribbble.com/baekwun" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dribbble" height="35" alt="Dribbble"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="22" width="22" alt="Dribbble" style="margin: 0 10px;"/>
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baekwun&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekwun&layout=compact&theme=tokyonight&hide_border=true" width="41%">
+</p>
