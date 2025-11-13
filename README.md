@@ -43,9 +43,3 @@
 <a href="https://dribbble.com/baekwun" target="_blank">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="30" />
 </a>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekwun&layout=compact&theme=tokyonight&hide_border=true" width="41%">
-</p>
